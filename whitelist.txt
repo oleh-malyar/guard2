@@ -1,3 +1,4 @@
 !White list
 @@||live.com^
 @@||rad.live.com^
+@@||g.live.com^
